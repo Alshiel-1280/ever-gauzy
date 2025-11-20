@@ -222,7 +222,8 @@ export enum LanguagesEnum {
 	ITALIAN = 'it',
 	DUTCH = 'nl',
 	POLISH = 'pl',
-	ARABIC = 'ar'
+	ARABIC = 'ar',
+	JAPANESE = 'ja'
 }
 
 export enum ComponentLayoutStyleEnum {
